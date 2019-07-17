@@ -46,8 +46,8 @@ tqdm
 
 # Getting Started
 
-clone the repository using : `git clone https://github.com/Pranav-Bhaskar/End-To-End-Automatic-Speech-Recognition`
-  
+clone the repository using : `git clone https://github.com/pankaj8865/END-TO-END-SPEECH-RECOGNITION
+
 After completing all installations.
   
 To record your voice use : `python3 record.py`
